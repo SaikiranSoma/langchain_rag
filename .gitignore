@@ -1,0 +1,4 @@
+.env
+/venv/
+/ramayana_db/
+/sample_db/
